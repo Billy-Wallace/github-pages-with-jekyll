@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Billy's Blog
 
-I'm glad you are here. I plan to talk about ...
+This is my first Git Page and creating a Blog using the learning lab by the Git Bot.
